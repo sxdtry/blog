@@ -161,8 +161,9 @@ export default {
   .el-menu-item {
     border-bottom: none;
   }
-}
 // .right {
+}
+  .center ::v-deep .el-submenu__icon-arrow{color:#fff}
 //     background-color: #666;
 //     position: absolute;
 //     top:0;
